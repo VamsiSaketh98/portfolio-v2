@@ -34,29 +34,6 @@ function Experience() {
         "Implemented best practices for data quality control and ensured the accuracy of geospatial data forvarious projects",
       ],
     },
-    // {
-    //   name: "Power Grid Corporation of India",
-    //   role: "Project Intern",
-    //   url: "https://www.powergrid.in/",
-    //   start: "June 2023",
-    //   end: "July 2023",
-    //   shortDescription: [
-    //     "Leveraged Spring Boot's comprehensive ecosystem for rapid development, microservices architecture, and efficient data management",
-    //     "Optimized website performance and ensured cross-browser compatibility",
-    //     "Utilized Spring Security for authentication and authorization, ensuring the integrity and protection of client data in enterprise-level deployments.",
-    //   ],
-    // },
-    // {
-    //   name: "Gagner Global",
-    //   role: "Software Developer - Intern",
-    //   url: "https://www.linkedin.com/company/gagner-global/?originalSubdomain=in",
-    //   start: "November 2018",
-    //   end: "November 2023",
-    //   shortDescription: [
-    //     "Worked on the development of a web-based CRM application using ReactJS and Node.js.",
-    //     "Implemented new features and enhancements to improve the user experience and performance of the application.",
-    //   ],
-    // },
   ];
   return (
     <motion.div

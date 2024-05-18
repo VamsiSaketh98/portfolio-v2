@@ -73,7 +73,7 @@ function Hero() {
         }}
       >  <ToastContainer />
         <Button text="Check out my latest work" link="" style={{ marginRight: '10px' }} />
-        <CopyButton text="" className="btn" />
+        <CopyButton text="https://portfolio-v2-rho-mauve.vercel.app/" className="btn" />
       </motion.div>
     </div>
   );

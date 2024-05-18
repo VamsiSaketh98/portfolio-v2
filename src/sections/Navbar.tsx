@@ -62,7 +62,7 @@ function Navbar() {
             ease: "easeInOut",
           }}
         >
-          <Link href="kunalrc.com">
+          <Link href="">
             <Logo />
           </Link>
         </motion.div>
