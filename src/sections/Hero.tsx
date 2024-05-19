@@ -72,8 +72,7 @@ function Hero() {
           delay: 1.65,
         }}
       >  <ToastContainer />
-        <Button text="Check out my latest work" link="" style={{ marginRight: '10px' }} />
-        <CopyButton text="https://portfolio-v2-rho-mauve.vercel.app/" className="btn" />
+        <Button text="Check out my latest work" link="https://portfolio-v2-rho-mauve.vercel.app/" style={{ marginRight: '10px' }} />
       </motion.div>
     </div>
   );

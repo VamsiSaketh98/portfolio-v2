@@ -40,21 +40,7 @@ function Projects() {
         externalLink: "",
       },
     },
-    // {
-    //   image: "",
-    //   projectName: "Github Autocommit Bot",
-    //   projectLink: "",
-    //   projectDescription:
-    //   "Coming Soon.",
-    //   projectTech: [
-    //     "Python",
-    //     "OS Module",
-    //   ],
-    //   projectExternalLinks: {
-    //     github: "",
-    //     externalLink: "",
-    //   },
-    // },
+   
   ];
   return (
     <div className="projects" id="work">

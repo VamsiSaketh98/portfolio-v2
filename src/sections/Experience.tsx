@@ -22,7 +22,7 @@ function Experience() {
     {
       name: "Globallogic",
       role: "Analyst",
-      url: "https://www.linkedin.com/company/aidash/",
+      url: "",
       start: "October 2020",
       end: "December 2023",
       shortDescription: [
