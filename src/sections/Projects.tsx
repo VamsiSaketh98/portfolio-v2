@@ -8,7 +8,7 @@ function Projects() {
   const projectsData = [
     {
       image: "/Paytm.JPG",
-      projectName: "PayTM",
+      projectName: "EasyPay",
       // projectLink: "",
       projectDescription:
       "Our innovative platform empowers you to take control of your finances. Sign up, manage your wallet balance, send money seamlessly, and access advanced features like transaction history and QR code integration (coming soon). We leverage cutting-edge technologies (MongoDB, Tailwind CSS, Axios) for a robust and user-friendly experience",
