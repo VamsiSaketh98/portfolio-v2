@@ -26,17 +26,38 @@ function Projects() {
       },
     },
     {
-      image: "/Gemini.JPG",
-      projectName: "Gemini-clone",
+      image: "/Capture.JPG",
+      projectName: "Blog",
       projectLink: "",
       projectDescription:
-      "Powered by cutting-edge AI: This project leverages the capabilities of the Google Gemini API 1.5 to deliver innovative text generation features.",
+      "Built a modern, interactive blog using React & Cloudflare Workers for efficient backend processing. Ensured data integrity & security with Zod, TypeScript, Prisma ORM & JWT authentication..",
       projectTech: [
         "React",
-        "CSS",
+        "CloudFlare",
+        "Typescript",
+         "Prisma",
+
       ],
       projectExternalLinks: {
-        github: "https://github.com/VamsiSaketh98/Gemini-Clone",
+        github: "https://github.com/VamsiSaketh98/Blog",
+        externalLink: "",
+      },
+    },
+    {
+      image: "/Comingsoon.png",
+      projectName: "PodCast",
+      projectLink: "",
+      projectDescription:
+      "Designed a Next.js podcasting platform that streamlines audio production by utilizing ChatGPT's text-to-speech API, enhancing user experience...",
+      projectTech: [
+        "Next.js",
+        "CloudFlare",
+        "Typescript",
+         "Prisma",
+
+      ],
+      projectExternalLinks: {
+        github: "https://github.com/VamsiSaketh98/Podcaster",
         externalLink: "",
       },
     },

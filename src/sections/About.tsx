@@ -37,6 +37,9 @@ function About() {
           <p className="about-grid-info-text">
             In my free time, I turn my analytical eye to the financial markets, constantly learning and refining my trading strategies.
           </p>
+          <p className="about-grid-info-text">
+            Skills
+          </p>
           <ul className="about-grid-info-list">
             <li className="about-grid-info-list-item">React</li>
             <li className="about-grid-info-list-item">Python</li>
