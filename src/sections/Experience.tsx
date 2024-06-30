@@ -24,7 +24,7 @@ function Experience() {
       role: "Analyst",
       url: "",
       start: "October 2020",
-      end: "December 2023",
+      end: "March 2024",
       shortDescription: [
         
         "Developed and maintained geospatial databases, ensuring data accuracy and consistency acrossmultiple projects.",
