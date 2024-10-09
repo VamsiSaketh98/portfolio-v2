@@ -43,7 +43,7 @@ function Hero() {
           delay: 1.05,
         }}
       >
-        I craft things for the web.
+        I am a Salesforce Developer.
       </motion.h3>
       <motion.p
         className="hero-text"
@@ -55,12 +55,11 @@ function Hero() {
           delay: 1.35,
         }}
       >
-        I'm a full-stack developer passionate about crafting user-friendly web experiences.
-        I bring strong skills in front-end development (HTML5, CSS3, React, Material-UI)
-        <br />  
-        Back-end development (Java, Node.js, Express.js, SQL, MongoDB).
-        <br />  
-        My field of Interest's are building new  Web Technologies and Products and also in areas related to Machine Learning.
+        As a passionate Salesforce Developer with experience in designing and implementing custom solutions, I thrive in creating efficient workflows and automating processes. 
+        <br />
+        I have hands-on expertise with Salesforce Apex, Visualforce, and Lightning Web Components (LWC). With a strong understanding of OOP concepts, I build scalable solutions tailored to business needs. I am continuously learning and adapting to new features in the Salesforce ecosystem to deliver high-impact solutions for clients.
+        <br />
+        
       </motion.p>
       <motion.div
         className="hero-button"

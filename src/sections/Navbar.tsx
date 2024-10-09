@@ -12,6 +12,7 @@ function Navbar() {
     { name: "About", link: "/#about" },
     { name: "Experience", link: "/#experience" },
     { name: "Work", link: "/#work" },
+    {name: "Salesforce"   , link: "/#Salesforce"},
     {
       name: "Contact",
       link: "/#contact",

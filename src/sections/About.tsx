@@ -28,8 +28,16 @@ function About() {
       <div className="about-grid">
         <div className="about-grid-info">
           <p className="about-grid-info-text">
-            Hi Everyone, I am Vamsi Saketh from Hyderabad, India.
-            I'm a full-stack developer passionate about building modern and interactive web applications. I utilize a versatile skillset that includes front-end frameworks like React and Tailwind CSS to craft user-friendly interfaces, alongside back-end technologies like Node.js, and databases like PostgreSQL, MongoDB and SQL (with Prisma for smooth data access).
+            Hi there, I am Vamsi Saketh from Hyderabad, India.
+            <br />
+            A passionate Salesforce Developer with experience in designing and implementing custom solutions, I thrive in creating efficient workflows and automating processes. 
+            <br />
+            <br />
+            I have hands-on expertise with Salesforce Apex, Visualforce, and Lightning Web Components (LWC). With a strong understanding of OOP concepts, I build scalable solutions tailored to business needs.
+            <br />
+            <br />
+            I am continuously learning and adapting to new features in the Salesforce ecosystem to deliver high-impact solutions for clients
+            
           </p>
           <p className="about-grid-info-text">
             Beyond coding, I'm fascinated by the potential of Machine Learning and constantly learning new things in this field.
@@ -41,31 +49,32 @@ function About() {
             Skills
           </p>
           <ul className="about-grid-info-list">
+            <li className="about-grid-info-list-item">Apex</li>
             <li className="about-grid-info-list-item">React</li>
-            <li className="about-grid-info-list-item">Python</li>
             <li className="about-grid-info-list-item">Next.js</li>
             <li className="about-grid-info-list-item">Typescript</li>
             <li className="about-grid-info-list-item">Git</li>
             <li className="about-grid-info-list-item">Node.js</li>
             <li className="about-grid-info-list-item">Java</li>
             <li className="about-grid-info-list-item">JavaScript</li>
-            <li className="about-grid-info-list-item">MongoDB</li>
-            <li className="about-grid-info-list-item">Sql</li>
-            <li className="about-grid-info-list-item">NoSql</li>
-            <li className="about-grid-info-list-item">TailwindCSS</li>
-            <li className="about-grid-info-list-item">HTML/CSS</li>
-            <li className="about-grid-info-list-item">Docker</li>
-            <li className="about-grid-info-list-item">VS Code</li>
-            <li className="about-grid-info-list-item">Postman</li>
-            <li className="about-grid-info-list-item">AWS </li>
+            <li className="about-grid-info-list-item">Apex</li>
+            <li className="about-grid-info-list-item">Salesforce APIs</li>
+            <li className="about-grid-info-list-item">LWC</li>
+            <li className="about-grid-info-list-item">SOQL & SOSL</li>
+            <li className="about-grid-info-list-item">SalesforceFlow</li>
+            {/* <li className="about-grid-info-list-item"></li>
+            <li className="about-grid-info-list-item"> </li>
             <li className="about-grid-info-list-item"></li>
+            <li className="about-grid-info-list-item"> </li>
+            <li className="about-grid-info-list-item"></li> */}
           </ul>
         </div>
         <div className="about-grid-photo">
           <div className="overlay"></div>
           <div className="overlay-border"></div>
           <div className="about-grid-photo-container">
-            <Image src="/avatar.jpg" alt="profile" fill />
+            <Image src="/mountaineer.png" alt="profile" fill />
+          
           </div>
         </div>
       </div>
